@@ -19,7 +19,8 @@ The app fetches a list of products from an external API and displays them. It in
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/visual-product-matcher.git
-  Navigate into the project directory:
+ 
+2. Navigate into the project directory:
 
 ``` bash
 cd visual-product-matcher
