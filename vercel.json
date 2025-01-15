@@ -1,0 +1,12 @@
+{
+    "rewrites": [
+      {
+        "source": "/api/:path*",
+        "destination": "https://restful-booker.herokuapp.com/:path*"
+      },
+      {
+        "source": "/(.*)",
+        "destination":"/"
+      } 
+    ]
+}
